@@ -1,0 +1,96 @@
+
+p,li 
+{
+    background-color: rgb(20, 177, 125);
+    font-size: 20px;
+ }
+ h2 
+ {
+
+    background-color:(rgb(102, 87, 87));
+    color: black;
+  
+    font-size: 2vw;
+    font-family:'Segoe UI, Tahoma, Geneva, Verdana, sans-serif';
+ }
+ ol
+{
+    background-color: skyblue;
+ }
+ li 
+ {
+    background-color:grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+ }
+ #navbar {
+    background-color: cornflowerblue;
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ #navbar th {
+    border-style: solid;
+ }
+ body{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   background-size: cover;
+   background-repeat: no-repeat;
+ }
+ header{
+   background-color: grey;
+   color: white;
+   text-align: center;
+   font-size: 50px;
+   border: 3px solid #FFFAFF;
+ }
+ .navbar{
+   background-color: #FFFAFF;
+   border: solid #000080;
+   font-size: 20px;
+   position: sticky;
+   top: 0px;
+ }
+ .navbar th {
+   border:solid #000080 ;
+   padding: 5px;
+ }
+ footer{
+   background-color: #000080;
+   color: #FFFAFF;
+   font-size: 12px;
+   border: 3px, solid #FFFAFF;
+   padding-left: 5px;
+ }
+ .profile{
+   background-color: #3E92CC;
+   text-align: center;
+ }
+ .even-row{
+   background-color:#5764A5;
+ }
+ .dropdown{
+  display: inline-block;
+  box-shadow: 5px 5px 10px black;
+ }
+ .dropdown-content{
+  display: none;
+  position: absolute;
+  background-color: #FFFAFF;
+  color: #000080;
+  padding:5px;
+ }
+  .dropdown:hover .dropdown-content{
+  display: block;
+ }
+ .active{
+  background-color: lightcoral;
+ }
+ a{
+  color: navy;
+  text-decoration: none;
+ }
+
+ 
